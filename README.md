@@ -6,6 +6,6 @@ Professor:Jeofton
 
 Desenvolvedores do projeto:
 
-Pedro Henrique Gomes de Araújo
+-Pedro Henrique Gomes de Araújo
 
-Selimol Santos
+-Selimol Santos
